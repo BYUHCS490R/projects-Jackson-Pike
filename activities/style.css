@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+footer, header {
+    border: 2px solid  #000;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+main {
+    flex: 1;
+}
